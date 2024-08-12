@@ -1,0 +1,6 @@
+.container {
+  margin: rem(20px);
+  display: flex;
+  justify-content: center; /* Центрирование по горизонтали */
+  align-items: center; /* Центрирование по вертикали */
+}

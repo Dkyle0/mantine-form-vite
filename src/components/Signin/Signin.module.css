@@ -1,0 +1,10 @@
+.container {
+  max-width: 60%;
+  margin: rem(10px) auto;
+  padding: rem(10px);
+  border: 1px solid #ced4da;
+}
+
+.submit {
+  margin-top: rem(10px);
+}
